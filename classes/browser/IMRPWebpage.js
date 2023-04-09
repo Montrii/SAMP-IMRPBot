@@ -343,7 +343,7 @@ class IMRPWebpage
     async getPlayerReportsWithPuppeteer()
     {
         return await puppeteer.launch({
-            headless: false,
+            headless: true,
             args: [         '--no-sandbox',
                 '--disable-setuid-sandbox',
                 '--disable-gpu',
