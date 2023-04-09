@@ -50,7 +50,7 @@ Now if your enviroment is fully setup, install all required packages:
 npm install
 ```
 
-Before launching the script, you now have to add the required information into your *.env* file. Please take a look at it to understand how the information is added in there.
+Before launching the script, you now have to add the required information into your *[.env](https://github.com/Montrii/SAMP-IMRPBot/blob/main/.env)* file. Please take a look at it to understand how the information is added in there.
 
 Once that is done, launch the script: 
 
